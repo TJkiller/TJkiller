@@ -31,22 +31,6 @@ My name is Thato <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's%20Code!;Keep%20Coding!;Build%20Secure%20Apps!&center=true&width=500&height=50&color=00FF00&vCenter=true&size=30" alt="Let's Code Typing GIF">
 </div>
 
-
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TJkiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJkiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center"><img src="https://nirzak-streak-stats.vercel.app/?user=TJkiller&theme=dark&hide_border=false" alt="Streak Stats"></td>
-  </tr>
-</table>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TJkiller&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

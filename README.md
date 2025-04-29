@@ -8,7 +8,7 @@ My name is Thato <p align="left">
 # 💫 About Me:
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
 
-I'm passionate about web and mobile app development and currently expanding my skills in Python and cybersecurity. I'm especially interested in building secure applications and learning how to defend against modern threats. I’m open to collaborating on tech projects—particularly those focused on secure development—and always eager to learn from experienced cybersecurity professionals and fellow developers. Let's connect if you're into building, securing, or just geeking out over tech!
+I'm passionate about web and mobile app development and currently expanding my skills in Python and cybersecurity. I'm especially interested in building secure applications and learning how to defend against modern threats.<br><br> I’m open to collaborating on tech projects particularly those focused on secure development and always eager to learn from experienced cybersecurity professionals and fellow developers. Let's connect if you're into building, securing or just geeking out over tech!
 
 <br>
 <Br>
